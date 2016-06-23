@@ -17,20 +17,21 @@ Work on hold, report critical issues & suggestions in [this thread[(http://commu
  
  
 ### TODO:
-- user profiles
-- tell me :)
+* user profiles
+* fixes
+* tell me :)
  
 ### Known issues that can't be done with just css:
-- just a few images like member type, new reply are still blue
-- you may lose color formatting in posts
-- usernames are all the same color (admins are bold)
-- 
+* just a few images like member type, new reply are still blue
+* you may lose color formatting in posts
+* usernames are all the same color (admins are bold)
+
 ### Changelog (last 3 changes):
 
 #### rev2
 * users color workaround, see comment in code to undo
 * post top bar
-- post quotes
+* post quotes
 * default forum icons filter - new thread, locked etc should match color better
 * fix white table background when thread was locked or unread
 * brighter post text
