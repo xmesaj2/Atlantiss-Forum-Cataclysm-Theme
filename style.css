@@ -1,0 +1,118 @@
+/* 
+ 
+Stylish for Chrome & Firefox 
+https://userstyles.org/help/stylish_chrome
+http://community.atlantiss.eu/
+ 
+*/
+ 
+#primary_nav {
+    background: #180A03;
+}
+.ipsType_pagetitle {
+    color: #fff;
+}
+.post_count {
+    background: #fff;
+}
+body {
+    background: url("https://atlantiss.eu/images/theme/bg.jpg") #130900 no-repeat center top;
+}
+#content {
+    background: #180A03;
+}
+.col_c_icon,
+.col_c_forum,
+.col_c_post,
+.col_c_stats,
+.col_f_icon,
+#ips_Posts,
+.post_body,
+.post_wrap,
+.post_count,
+.post_block,
+.unread,
+.ipsPad,
+.ipsSideBlock {
+    background: #1D0C03;
+    color: #E8E8E8;
+}
+.ipsBox_container {
+    background: #1D0C03;
+    color: #E8E8E8;
+    border: 1px solid #000;
+}
+.ipb_table {
+    border-color: #000;
+}
+p,
+.desc,
+.post_body,
+.post {
+    color: #BBB !important;
+}
+a,
+span,
+.bbc_url {
+    color: #BB740F !important;
+    /* delete !important if you wish to see GM colors
+       but all standard users in black i think it's 
+       better this way because there are less GMs
+       than users 
+    */
+}
+.row2 {
+    background: #180A03;
+}
+.ipsBox,
+.post_block,
+h3 {
+    background: #180A03;
+    border: 1px solid #000;
+}
+#branding {
+    background: #211009 url(http://mesaj.pl/wp-content/uploads/2016/01/branding_bg-1.png) repeat-x;
+    border-bottom: 1px solid #211009;
+}
+.maintitle {
+    background: #180A03 url(http://mesaj.pl/wp-content/uploads/2016/01/maintitle.png) repeat-x top;
+    color: #fff;
+    -webkit-box-shadow: inset 0px 1px 0 #180A03;
+    -moz-box-shadow: inset 0px 1px 0 #180A03;
+    box-shadow: inset 0px 1px 0 #180A03;
+    border-color: #180A03;
+    border-style: solid;
+}
+#community_app_menu>li>a {
+    color: #FFFFFF;
+    background: #652001;
+}
+table.ipb_table td {
+    border: 1px solid #180A03;
+}
+.row1,
+.post_block.row1 {
+    background-color: inherit;
+}
+#shouts-global-resizer,
+#shouts-resizer {
+    background-color: inherit;
+}
+#shoutbox-shouts-table .row2 td {
+    border-bottom: 1px solid #211009;
+    vertical-align: middle;
+}
+.unread .altrow,
+.unread.altrow {
+    background-color: inherit;
+}
+.forum_marker {
+    -webkit-filter: contrast(2.3) hue-rotate(240deg) sepia(1);
+    filter: contrast(2.3) hue-rotate(240deg) sepia(1);
+}
+blockquote.ipsBlockquote {
+    background-color: inherit;
+}
+.post_block h3 {
+    background-color: #652001;
+}
