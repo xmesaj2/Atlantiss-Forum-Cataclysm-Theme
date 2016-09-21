@@ -5,7 +5,7 @@ I made a quick recolor of forums css, you can use it with Stylish addon for web 
 
 [Stylish for Firefox](https://addons.mozilla.org/en-US/firefox/addon/stylish/?src=external-userstyleshome), [Stylish for Chrome](https://chrome.google.com/webstore/detail/fjnbnpbmkenffdnngjfgmeleoegfcffe), [Stylish for Safari](http://sobolev.us/stylish/), or [Stylish for Opera](https://addons.opera.com/extensions/details/stylish/)
  
-Work on hold, report critical issues & suggestions in [this thread[(http://community.atlantiss.eu/index.php?/topic/7461-forum07-jan-2016-cataclysm-theme-css-rev2), so I can fix when I find some time.
+Work on hold, report critical issues & suggestions in [this thread](http://community.atlantiss.eu/index.php?/topic/7461-forum07-jan-2016-cataclysm-theme-css-rev2), so I can fix when I find some time.
  
 ### Preview images:
 
